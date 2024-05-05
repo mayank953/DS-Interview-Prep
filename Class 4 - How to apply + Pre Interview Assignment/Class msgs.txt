@@ -1,0 +1,14 @@
+https://internship.ineuron.ai/project/invite/Insurance-Premium-Prediction/bcffc0ea-2427-4b0e-9050-c5e12fb5dd2f - Internship @ Ineuron project
+
+
+https://drive.google.com/file/d/1PUCqVKy21vtuKOYiBDhYJTUIa-7EP75g/view - Project / Assignment Practice
+
+
+You have to just make a project report and also write code for the same. You have to make the code in python notebook divided in to files :- Visualization ,EDA, Modelling.
+
+Make a github repo for yourself and do this project. Make sure to make a project report. 
+
+3 weeks Timeline :- 26th May 2024
+
+
+https://github.com/mayank953/WINE-QUALITY-ANALYSIS
