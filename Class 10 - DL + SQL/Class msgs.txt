@@ -1,0 +1,52 @@
+
+
+-------------
+
+https://leetcode.com/problem-list/e97a9e5m/
+https://leetcode.com/studyplan/top-sql-50/
+https://www.interviewbit.com/sql-interview-questions/
+https://github.com/mrinal1704/SQL-Leetcode-Challenge/
+https://www.w3schools.com/sql/
+
+
+-------------
+
+
+can you cover the type of questions for projects we show on resume.
+
+
+Hi Mayank, Thanks for your support. I cleared all rounds for a company. Need some tips to negotiate. - **Abhishek** 
+
+
+later pls share some tips on negotiations. Calls I get they bluntly say 30% increment policy.
+
+
+how does negotiation work?If I negotiate too high, will recruiter reject me completely and I lose the opportunity or they will simply tell me what they can offer?
+
+In my case my HR was fine with 30% hike before interview but after clearing rounds he is saying 20%. He said that by the time you will join you will have more offer and we will revise.
+
+---- 
+
+we didn't take class on last sunday, so can we take it this monday or tuesday ?
+
+# Monday i.e. 3rd June we will have an extra class from 8-10 pm
+
+
+
+Sir, after completion of this course if i need your extend support. how can i do that? - mayank@ineuron.ai
+
+as a data scientist, do we need to learn Data engineering part like bigdata or any other skills? -> 
+
+What after you leave Ineuron may be after some years?😇 
+
+
+
+can you explain vanishing gradients descent and exploding gradients ? # Anil
+
+
+Transformers,Prompt engineering,ChatGPT API,fine-tuning LLMs,RAG systems,PEFT these new skill i seen multiple JD but i not learn these in depth like other topics so far. should I invest time to learn this or without this also we can get job? #Anil
+
+
+
+
+sir u give dsa questions as task if doubt u can take sir ? 
